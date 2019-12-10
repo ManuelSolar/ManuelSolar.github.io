@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Cajas y Overflow</title>
+        <meta charset="utf-8">
+        <meta name="description" content="practicas de overflow">
+        <meta name="keywords" content="overflow">
+        <style>
+          h1 {
+            font-size: 24px;
+          }
+
+          h2 {
+            font-size: 22px;
+            margin: 20px;
+          }
+
+          .parrafo {
+            font-size: 18px;
+            padding: 48px 60px;
+            border: solid 24px green;
+            margin: 20px;
+          }
+
+          article {
+            background-color: #eee;
+            width: 400px;
+            border: 1px dotted black;
+            overflow: visible;
+          }
+        </style>
+    </head>
+    <body>
+    <header>
+        <h1 id="top">ENCABEZADO</h1>
+    </header>
+    <nav>
+      <p>Prueba de barra de navegación</p>
+    </nav>
+    <main>
+        <section>
+            <article>
+                <header>
+                   <h2>Encabezado de la seccion</h2>
+                </header>
+                <body>
+                  <p class="parrafo">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut est at ipsum condimentum rutrum. Quisque dictum odio a nibh fermentum luctus. Vivamus egestas urna sit amet bibendum congue. Vivamus maximus convallis nibh id porta. Etiam eu leo ut purus eleifend fringilla a at felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent sit amet arcu sed nulla cursus ultrices finibus ac mauris. Vestibulum nec velit et nisi hendrerit tincidunt. Fusce malesuada lorem nec ligula ornare sagittis. Cras sed auctor orci. Donec sollicitudin dui et elementum efficitur. Duis nec euismod diam, eget dapibus sapien. 
+                  </p>
+                </body>
+            </article>
+        </section>
+        <aside>
+        </aside>
+    </main>
+    <footer>
+      &copy; Todos los derechos a Manuel Solar Bueno
+    </footer>
+    </body>
+</html>
