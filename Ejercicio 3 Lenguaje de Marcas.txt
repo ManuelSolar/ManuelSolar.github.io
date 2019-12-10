@@ -1,0 +1,25 @@
+¿Qué es un lenguaje de marcas? {
+	=Es una forma de codificar un documento que, junto con el texto, incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación.
+	~Es un programa que te permite escribir texto plano.
+	~Es un tipo de lenguaje de programación.
+	~Es un tipo de protocolo.}
+¿Cuál de las siguientes opciones es un editor de texto plano? {
+	~LibreOffice.
+	~Python.
+	=Notepad++.
+	~Word.}
+¿Cuál es el lenguaje de marcado más extendido en el mundo? {
+	~XML.
+	~Latex.
+	=HTML.
+	~Apache.}
+¿Cuál de las siguientes opciones no es un lenguaje de marcas? {
+	~XHTML.
+	~Latex.
+	~SGML.
+	=Javascript.}
+¿Cuál de las siguientes opciones no es una característica del lenguaje de marcas? {
+	~Flexibilidad.
+	=Se declaran variables.
+	~Compacidad.
+	~Uso de texto plano.}
