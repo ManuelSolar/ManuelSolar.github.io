@@ -37,26 +37,33 @@ li:hover {
 
 #cordoba {
     text-align: center;
-    border-radius: 25px;
-    background-color: rgb(185, 108, 19);
-    border-bottom: 2px solid rgb(219, 241, 18);
-    padding: 20px; 
-    width: 25%;
-    height: auto;
-    text-decoration: none;
+    text-decoration-line: none;
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color: rgba(241, 117, 10, 0.58);
+    border: 6px solid rgba(202, 112, 69, 0.92);
+    padding: 15px; 
+    width: 50%;
 }
 
 #cordobamenu {
     text-align: center;
-    border-radius: 25px;
-    background-color: rgb(185, 108, 19);
-    border-bottom: 2px solid rgb(219, 241, 18);
-    padding: 20px; 
+    border-radius: 5px;
+    background-color: rgba(246, 179, 29, 0.65);
+    border: 2px solid rgba(202, 112, 69, 0.92);
+    padding: 10px; 
     width: 25%;
     height: auto;
     text-decoration: none;
 }
 
 .noticia {
-    
+    text-align: center;
+    text-decoration-line: none;
+    text-transform: capitalize;
+    border-radius: 5px;
+    background-color: rgb(255, 250, 205);
+    border: 6px solid rgba(232, 155, 14, 0.77);
+    padding: 15px; 
+    width: 50%;
 }   
