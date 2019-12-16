@@ -1,35 +1,41 @@
 h1 {
     text-align: center;
-    text-decoration: sienna;
+    text-decoration-line: none;
     text-transform: capitalize;
+    border-radius: 5px;
+    background-color: rgba(148, 189, 233, 0.92);
+    border: 6px solid rgb(232, 216, 26);
+    padding: 15px; 
+    width: 50%;
+    
 }
 
 a:link
 {
-text-decoration:none;
+text-decoration-line:none;
 } 
 
 li {
     text-align: center;
-    border-radius: 25px;
-    background-color: rgb(26, 236, 26);
-    border: 2px solid rgb(26, 156, 189);
-    padding: 20px; 
+    border-radius: 5px;
+    background-color: rgb(160, 233, 249);
+    border: 2px solid rgb(232, 216, 26);
+    padding: 10px; 
     width: 25%;
     height: 25%;
 }
 
 li:hover {
     text-align: center;
-    border-radius: 25px;
-    background-color: rgb(14, 158, 14);
-    border: 2px solid rgb(13, 106, 129);
+    border-radius: 5px;
+    background-color:  rgb(99, 181, 251);
+    border: 2px solid rgb(232, 216, 26);;
     padding: 20px; 
     width: 28%;
     height: 28%;
 }
 
-#cordoba {
+#turismocordoba {
     text-align: center;
     border-radius: 25px;
     background-color: rgb(185, 108, 19);
